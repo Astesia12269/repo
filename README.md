@@ -78,7 +78,7 @@ cmake ../source/ClassExamProject
 make
 
 # 运行程序
-./YourProjectName
+./Debug/Debug/ClassExamProject.exe
 ```
 
 ## 📌 已知问题
